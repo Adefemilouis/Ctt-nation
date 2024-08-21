@@ -1,0 +1,30 @@
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;}
+    
+    input[type=continue]{
+        background-color: aqua;
+        border: none;
+        color: white;
+        padding: 20px 550px;
+        text-decoration: none;
+        margin: 50px 400px;
+        cursor: pointer;
+        margin-left: 30px;
+        margin-right: 40px;
+        border-radius: 40px;
+    }
+    div {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;}
+    
+        p.terms{
+            color: aqua;
+        }
+        p{
+            color: grey;
+
+        }
